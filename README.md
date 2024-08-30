@@ -21,7 +21,7 @@
   <img align="center" alt="Julio-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomonteiiro&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomonteiiro&hide_progress=true&theme=tokyonight)
 
 <br/>
 
