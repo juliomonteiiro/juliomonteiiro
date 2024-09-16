@@ -73,13 +73,5 @@
 </div>
 <br/>
 
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/juliomonteiiro/juliomonteiiro/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/juliomonteiiro/juliomonteiiro/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/juliomonteiiro/juliomonteiiro/blob/output/ocean.gif" />
-  </picture>
-</div>
-<br/>
 
 📖"A esperança nunca decepciona..."
