@@ -1,4 +1,4 @@
-# Olá! Eu sou Julio Monteiro 
+# Hi! My name is Julio Monteiro 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliomonteiiro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-alexsandro-monteiro-da-silva-294b25248)
@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/juliomonteiiro)
 
 
-## Técnologias que eu uso no meu dia
+## Tech Stack
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
